@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Salman</h1>
+<h1 align="center">Hi 👋, I'm Noman</h1>
 <h4 align="center">FullStack Developer</h4>
 
 <br/>
 
 <p align="center"> 
-<a href="https://www.linkedin.com/in/salmanmaqsoodlive/"><img src="https://img.shields.io/badge/-Salman%20Maqsood-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:isalmanmaqsood@gmail.com"><img src="https://img.shields.io/badge/-isalmanmaqsood@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=salmanmaqsoodlive&label=Profile%20views&color=0e75b6&style=flat" alt="salmanmaqsoodlive" /> </p>
+<a href="https://www.linkedin.com/in/nomanmaqsood/"><img src="https://img.shields.io/badge/Noman%20Maqsood-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:nmaqsood91@gmail.com"><img src="https://img.shields.io/badge/-nmaqsood91@gmail.com@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=nmaqsood91&label=Profile%20views&color=0e75b6&style=flat" alt="nmaqsood91" /> </p>
 
 <br/>
 
