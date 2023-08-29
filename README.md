@@ -10,8 +10,7 @@
 
 <br/>
 
-- 👨‍💻 I am currently working as a **FullStack Developer**.
-- 🌱 I'm currently learning **Amazon Web Services**.
+- 👨‍💻 I am currently working as a **FullStack/DevOps Engineer**.
 - 💬 I love to talk about **Ideas**.
 - 💎 I am interested in learning about **Cloud Computing**.
 - 📩 You can reach out to me via **[Email](mailto:nmaqsood91@gmail.com)**.
@@ -27,7 +26,7 @@
 
  <tr>
 <td align="center" width="96">
-<a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/></a></td>
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="amplify" width="40" height="40"/></a></td>
 <td align="center" width="96"><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a></td>
 <td align="center" width="96">
 <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> </td>
