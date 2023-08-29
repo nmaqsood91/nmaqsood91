@@ -5,7 +5,7 @@
 
 <p align="center"> 
 <a href="https://www.linkedin.com/in/nomanmaqsood/"><img src="https://img.shields.io/badge/Noman%20Maqsood-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:nmaqsood91@gmail.com"><img src="https://img.shields.io/badge/-nmaqsood91@gmail.com@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:nmaqsood91@gmail.com"><img src="https://img.shields.io/badge/-nmaqsood91@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <img src="https://komarev.com/ghpvc/?username=nmaqsood91&label=Profile%20views&color=0e75b6&style=flat" alt="nmaqsood91" /> </p>
 
 <br/>
@@ -69,12 +69,5 @@
 </tr>
 </table>
 
-<br />
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=nmaqsood91&show_icons=true&hide=issues&locale=en&count_private=true&theme=tokyonight&border_radius=20" alt="nmaqsood91" /></p>
-
-<br/>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nmaqsood91&show_icons=true&locale=en&count_private=true&theme=tokyonight&border_radius=20" alt="nmaqsood91" /></p>
 
 <br/>
