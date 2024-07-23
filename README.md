@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Noman</h1>
-<h4 align="center">FullStack Developer</h4>
+<h4 align="center">Senior Software Engineer</h4>
 
 <br/>
 
@@ -9,8 +9,8 @@
 
 <br/>
 
-- 👨‍💻 I am currently working as a **FullStack/DevOps Engineer**.
-- 💬 I love to talk about **Ideas**.
+- 👨‍💻 I am currently working as a **Senior FullStack/DevOps Engineer**.
+- 💬 I love to talk about **Ideas** and I am **Delivery** focused
 - 💎 I am interested in learning about **Cloud Computing**.
 - 📩 You can reach out to me via **[Email](mailto:nmaqsood91@gmail.com)**.
 - ⚡ Constantly learning new technologies.
